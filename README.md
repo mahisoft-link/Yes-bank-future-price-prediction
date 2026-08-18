@@ -5,6 +5,11 @@
 A Machine Learning project to predict the **next month's closing price of Yes Bank** using historical monthly stock-price data.
 
 The project includes data analysis, time-series feature engineering, model comparison, hyperparameter tuning, and Streamlit deployment.
+## 🚀 Live Demo
+
+🔗 **Streamlit App:** [Open Live Application](yes-bank-future-price-prediction-8xbp3xbgc9rtbhgguxwkh4.streamlit.app)
+
+The application is deployed using Streamlit Community Cloud.
 
 ## 🎯 Objective
 
