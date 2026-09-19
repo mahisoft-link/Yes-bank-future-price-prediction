@@ -4,10 +4,6 @@ import numpy as np
 import joblib
 import os
 
-from dotenv import load_dotenv
-from google import genai
-
-
 # ============================================================
 # CONFIG
 # ============================================================
