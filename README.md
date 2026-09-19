@@ -7,7 +7,7 @@ A Machine Learning project to predict the **next month's closing price of Yes Ba
 The project includes data analysis, time-series feature engineering, model comparison, hyperparameter tuning, and Streamlit deployment.
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [Open Live Application](https://yes-bank-future-price-prediction-8xbp3xbgc9rtbhgguxwkh4.streamlit.app/)
+🔗 **Streamlit App:** [Open Live Application](https://mahisoft-link-yes-bank-future-price-prediction-app-u4xe7k.streamlit.app/)
 
 The application is deployed using Streamlit Community Cloud.
 
